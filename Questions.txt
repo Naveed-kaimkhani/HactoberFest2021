@@ -16,6 +16,7 @@ Ans: The Extensible Markup Language (XML) is a simple text-based format for repr
 Q8:Define Clustering in Machine Learning. 
 Q9:What is Singleton Design Pattern?
 Q10:What is Brust Time?
+Ans : The time required in milli seconds by a process for its execution.
 Q11:What is Hadoop?
 Q12:Write a query to get all the Students from student tabel in oracle.
 Q13:What is an ER diagram?

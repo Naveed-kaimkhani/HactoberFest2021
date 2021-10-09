@@ -19,6 +19,8 @@ Q10:What is Brust Time?
 Q11:What is Hadoop?
 Q12:Write a query to get all the Students from student tabel in oracle.
 Q13:What is an ER diagram?
+Ans : A graphical representation that depicts relationships among people, objects, places, 
+concepts or events within an information technology (IT) system.
 Q14:What is numpy?
 Q15:what is pandas?
  
